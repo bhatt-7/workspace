@@ -1,4 +1,8 @@
+#Workspace frontend-> https://github.com/bhatt-7/workspacefrontend
+
 # Workspace
+
+
 
 Welcome to the Workspace's backend repository! This project aims to provide a solution for managing discussions within a workspace environment. It is built using ExpressJS, a popular Node.js framework for building web applications and APIs, coupled with PostgreSQL as our database of choice and Redis as caching layer.
 
